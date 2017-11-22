@@ -1,0 +1,12 @@
+https://datagov-cosmos-db-centralindia.documents.azure.com/
+
+{
+  "primaryMasterKey": "wdSaLEUXcx8opZBcm5VV4P8xncBW4JJipBb8eFOYwpeXsdeiwRN6SLhkv5IBrQRrEPvCTQ1BLLDRENSjFC6nFw==",
+  "primaryReadonlyMasterKey": "Bvt2SFCSh6eg0HgHNUf5SVafXszh7TNleHCvvEXO0ecusyrSypfNmFUbqBNqDM5pgyF5ev66OLk9JexGtFwccQ==",
+  "secondaryMasterKey": "93E26bHu3PiPKllzKI4vjnWuL6qCACB7TgGnv78rV9tXsVPCgTrECzOZpj7pqL5PKZayGavuHCCX2G9f8AAzQw==",
+  "secondaryReadonlyMasterKey": "52wutGipJ2zk4BaxpZo4DP1x3SKCFfMym0A2numu6eGJynAhOhM5iw766CH13XBwdbCGltr7Jolpi3yWJvSDAQ=="
+}
+
+user-name datagovadmin --password datagovadmin@2017
+
+https://datagovadmin@bloodbanktracker.scm.azurewebsites.net:443/BloodBankTracker.git
